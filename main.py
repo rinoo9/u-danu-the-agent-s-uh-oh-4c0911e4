@@ -6,7 +6,7 @@ agent that has no idea what to do -- to /output/entry.txt.
 
 import os
 
-ENTRY = "Flummoxed"
+ENTRY = "Bamboozled"
 
 
 def main() -> None:
